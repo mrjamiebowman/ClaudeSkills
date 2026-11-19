@@ -42,11 +42,12 @@ Repo layout:
 2. **Read the matching reference:**
    - API → [references/api-architecture.md](references/api-architecture.md)
    - Messaging → [references/messaging.md](references/messaging.md)
-   - Tests -> [references/testing.md](references/testing.md)
+   - Tests → [references/testing.md](references/testing.md)
    - Unit Tests → [references/unit-testing.md](references/unit-testing.md)
    - Integration Tests → [references/integration-testing.md](references/integration-testing.md)
-   - Developer Tests -> [references/developer-testing.md](references/developer-testing.md)
+   - Developer Tests → [references/developer-testing.md](references/developer-testing.md)
    - Always → [references/conventions.md](references/conventions.md)
+   - Always → [references/solution-files.md](references/solution-files.md)
 3. **Scaffold from the template:** copy the template project, rename
    `MrJB.Sample.*` / `MrJB.API.Sample` to the new service name (namespaces,
    folders, `.csproj`, `.slnx` entries, Helm chart name, `UserSecretsId`).
