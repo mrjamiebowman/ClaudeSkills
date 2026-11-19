@@ -1,0 +1,13 @@
+{
+  "name": "dotnet",
+  "version": "0.1.0",
+  "description": ".NET API and messaging service architecture: scaffolding, conventions, and reviews.",
+  "author": {
+    "name": "Jamie Bowman",
+    "url": "https://github.com/mrjamiebowman"
+  },
+  "homepage": "https://github.com/mrjamiebowman/ClaudeSkills",
+  "repository": "https://github.com/mrjamiebowman/ClaudeSkills",
+  "license": "MIT",
+  "keywords": ["dotnet", "csharp", "api", "messaging", "architecture"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "mrjb-skills",
+  "owner": {
+    "name": "Jamie Bowman",
+    "url": "https://github.com/mrjamiebowman"
+  },
+  "metadata": {
+    "description": "Claude skills for software architecture and development by Jamie Bowman."
+  },
+  "plugins": [
+    {
+      "name": "dotnet",
+      "source": "./plugins/dotnet",
+      "description": ".NET API and messaging service architecture: scaffolding, conventions, and reviews.",
+      "category": "development",
+      "keywords": ["dotnet", "csharp", "api", "messaging", "architecture", "aspire", "helm"]
+    }
+  ]
+}
