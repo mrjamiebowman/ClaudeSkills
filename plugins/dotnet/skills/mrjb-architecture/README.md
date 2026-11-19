@@ -1,4 +1,4 @@
-# dotnet-architecture: a Claude skill
+# mrjb-architecture: a Claude skill
 
 A [Claude skill](https://docs.claude.com/en/docs/claude-code/skills) for scaffolding and reviewing
 .NET microservices (HTTP APIs and messaging services) using the

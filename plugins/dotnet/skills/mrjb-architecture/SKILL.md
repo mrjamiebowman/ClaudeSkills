@@ -1,5 +1,5 @@
 ---
-name: dotnet-architecture
+name: mrjb-architecture
 description: Scaffold, extend, and review .NET microservices — HTTP APIs and messaging services (consumers, publishers, workers) — using the MrJB Application Architecture templates (simple, linear N-layer; .NET Aspire; Docker; Helm). Use when creating a new .NET Web API or message-driven service, adding endpoints, consumers, repositories or data access, containerizing or adding Helm charts to a .NET service, or checking a .NET service against these architecture conventions.
 ---
 

@@ -7,7 +7,7 @@ Claude skills for software architecture and development, packaged as a
 
 | Plugin | Skills | Description |
 |---|---|---|
-| [`dotnet`](plugins/dotnet) | [`dotnet-architecture`](plugins/dotnet/skills/dotnet-architecture) | Scaffold and review .NET APIs and messaging services using the [MrJB Application Architecture templates](https://github.com/mrjamiebowman/Templates-Application-Architecture) |
+| [`dotnet`](plugins/dotnet) | [`mrjb-architecture`](plugins/dotnet/skills/mrjb-architecture) | Scaffold and review .NET APIs and messaging services using the [MrJB Application Architecture templates](https://github.com/mrjamiebowman/Templates-Application-Architecture) |
 
 ## Install (Claude Code)
 
@@ -20,7 +20,7 @@ Update later with `/plugin marketplace update mrjb-skills`.
 
 ## Install a single skill (claude.ai / Claude desktop)
 
-Zip a skill folder (for example `plugins/dotnet/skills/dotnet-architecture`)
+Zip a skill folder (for example `plugins/dotnet/skills/mrjb-architecture`)
 and upload it under **Settings → Capabilities → Skills**.
 
 ## Adding a skill
