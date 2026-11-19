@@ -10,9 +10,10 @@
 
 ## Naming
 
+- Solutions files should be `slnx`. If they are not run `dotnet sln <solution-file> migrate` to migrate it from sln to slnx.
 - Solution prefix: `MrJB.` (replace with the user's own prefix if they're not MrJB).
-- Projects: `MrJB.API.<Service>`, `MrJB.<Service>.<Layer>`.
-- Helm charts: `mrjb-app-<service>`.
+- Projects: `MrJB.<Service>.API`, `MrJB.<Service>.<Layer>`.
+- Helm charts: `mrjb-api-<service>`, or `mrjb-messaging-<service>`.
 
 ## Build and run
 
